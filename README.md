@@ -4,7 +4,7 @@
 2. Envoie **tout le contenu de ce dossier** à la racine du dépôt.
 3. Vérifie que `index.html` est directement à la racine.
 4. GitHub → Settings → Pages → Deploy from a branch → `main` → `/ (root)` → Save.
-5. L'adresse sera de la forme `https://TONPSEUDO.github.io/objectif-spp/`.
+5. L'adresse sera de la forme `https://objectif-spp.github.io/objectif-spp/`.
 
 ## Contenu V3
 - accueil responsive
